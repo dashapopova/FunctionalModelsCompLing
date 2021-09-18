@@ -67,15 +67,14 @@
     <tr>
     <td>01.11.</td>
     <td>
-   Метафора и метонимия<br>
-       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
+    <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
   <td></td>
     <td></td>
   </tr>
     <tr>
     <td>08.11.</td>
-    <td>
+    <td>Метафора и метонимия<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td></td>
