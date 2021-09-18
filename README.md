@@ -27,7 +27,7 @@
     <th>Комментарий</th>
   </tr>
    <tr>
-    <td>07.09.</td>
+    <td>20.09.</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/20.09/%D0%A4%D0%9C_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.pptx.pdf">Введение: функциональная лингвистика</a><br>
     <a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/20.09/FM_Sociolinguistics.pptx.pdf">Социолингвистика</a></td>
     <td></td>
@@ -35,21 +35,21 @@
     </td>
   </tr>
   <tr>
-    <td>21.09.</td>
+    <td>27.09.</td>
     <td>Введение: когнитивная лингвистика
     </td>
     <td></td>
     <td>
     </td>
   </tr>
-    <td>05.10.</td>
+    <td>04.10.</td>
     <td>Импликатуры<br>Экспрессивы<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
     <td>ДЗ 1 до 19.10</td>
     <td></td>
    </tr>
     <tr>
-    <td>12.10.</td>
+    <td>11.10.</td>
     <td>Метафора и метонимия<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td>ДЗ 2 до 2.11</td>
@@ -57,7 +57,7 @@
   </td>
   </tr>
     <tr>
-    <td>09.11.</td>
+    <td>25.10.</td>
     <td>Речевые акты<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
@@ -65,7 +65,7 @@
     <td></td>
   </tr>
     <tr>
-    <td>23.11.</td>
+    <td>01.11.</td>
     <td>
    Социолингвистика<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
@@ -74,7 +74,7 @@
     <td></td>
   </tr>
     <tr>
-    <td>07.12.</td>
+    <td>08.11.</td>
     <td>Жестовая лингвистика<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
@@ -83,7 +83,7 @@
   </tr>
   </tr>
     <tr>
-    <td>14.12.</td>
+    <td>15.11.</td>
     <td>Усвоение языка<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td></td>
