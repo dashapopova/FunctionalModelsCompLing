@@ -13,7 +13,7 @@
 * **20% -- домашнее задание 1** 
 * **20% -- домашнее задание 2** 
 * **20% -- домашнее задание 3** 
-* **20% -- комментарии на 5 статей**
+* **20% -- комментарии к статьям**
 * **20% -- презентация статьи** 
 
 Ни один элемент контроля не является блокирующим. Пересдача не предусмотрена, кроме пересдачи по уважительной причине. Итоговая оценка округляется в пользу студента. 
@@ -27,7 +27,8 @@
     <th>Комментарий</th>
   </tr>
    <tr>
-    <td>20.09.</td>
+    <td>20.09.<br>
+     онлайн</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/20.09/%D0%A4%D0%9C_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.pptx.pdf">Введение: функциональная лингвистика</a><br>
     <a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/20.09/FM_Sociolinguistics.pptx.pdf">Социолингвистика</a></td>
     <td></td>
@@ -35,7 +36,8 @@
     </td>
   </tr>
   <tr>
-    <td>27.09.</td>
+    <td>27.09.<br>
+    онлайн</td>
     <td>Экспрессивы<br>
       Импликатуры<br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a></td>
