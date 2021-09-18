@@ -36,46 +36,45 @@
   </tr>
   <tr>
     <td>27.09.</td>
-    <td>Введение: когнитивная лингвистика
-    </td>
-    <td></td>
+    <td>Экспрессивы<br>
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
+    <td>ДЗ 1 до 11.10</td>
     <td>
     </td>
   </tr>
     <td>04.10.</td>
-    <td>Импликатуры<br>Экспрессивы<br>
+    <td>Референция<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
-    <td>ДЗ 1 до 19.10</td>
+    <td></td>
     <td></td>
    </tr>
     <tr>
     <td>11.10.</td>
-    <td>Метафора и метонимия<br>
+    <td>Импликатуры<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
-    <td>ДЗ 2 до 2.11</td>
+    <td>ДЗ 2 до 1.11</td>
     <td>
   </td>
   </tr>
     <tr>
     <td>25.10.</td>
-    <td>Речевые акты<br>
+    <td>Метафора и метонимия<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
-    <td>ДЗ 3 до 23.11</td>
+    <td></td>
     <td></td>
   </tr>
     <tr>
     <td>01.11.</td>
     <td>
-   Социолингвистика<br>
-       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
+   Речевые акты
   </td>
-  <td>ДЗ 4 до 07.12</td>
+  <td>ДЗ 3 до 15.11</td>
     <td></td>
   </tr>
     <tr>
     <td>08.11.</td>
-    <td>Жестовая лингвистика<br>
+    <td>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td></td>
@@ -84,7 +83,7 @@
   </tr>
     <tr>
     <td>15.11.</td>
-    <td>Усвоение языка<br>
+    <td>Дискурс<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td></td>
     <td></td>
