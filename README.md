@@ -37,6 +37,7 @@
   <tr>
     <td>27.09.</td>
     <td>Экспрессивы<br>
+      Импликатуры<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
     <td>ДЗ 1 до 11.10</td>
     <td>
