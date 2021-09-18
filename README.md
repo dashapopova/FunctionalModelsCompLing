@@ -23,15 +23,13 @@
   <tr>
     <th>Дата</th>
     <th>Тема</th>
-    <th>Кто ведет</th>
     <th>ДЗ</th>
     <th>Комментарий</th>
   </tr>
    <tr>
     <td>07.09.</td>
-    <td><a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/07.09/%D0%A4%D0%9C_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.pptx.pdf">Введение: функциональная лингвистика</a><br>
-    <a href="https://github.com/dashapopova/FunctionalModelsDH2021/blob/main/07.09/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F.pdf">Референция</a></td>
-    <td>Даша П</td>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/20.09/%D0%A4%D0%9C_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.pptx.pdf">Введение: функциональная лингвистика</a><br>
+    Референция</td>
     <td></td>
     <td>
     </td>
@@ -40,7 +38,6 @@
     <td>21.09.</td>
     <td>Введение: когнитивная лингвистика
     </td>
-    <td>Даша Р</td>
     <td></td>
     <td>
     </td>
@@ -48,7 +45,6 @@
     <td>05.10.</td>
     <td>Импликатуры<br>Экспрессивы<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
-    <td>Даша П</td>
     <td>ДЗ 1 до 19.10</td>
     <td></td>
    </tr>
@@ -56,7 +52,6 @@
     <td>12.10.</td>
     <td>Метафора и метонимия<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
-    <td>Даша Р</td>
     <td>ДЗ 2 до 2.11</td>
     <td>
   </td>
@@ -66,7 +61,6 @@
     <td>Речевые акты<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
-    <td>Даша П</td>
     <td>ДЗ 3 до 23.11</td>
     <td></td>
   </tr>
@@ -76,7 +70,6 @@
    Социолингвистика<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
-    <td>Даша П</td>
   <td>ДЗ 4 до 07.12</td>
     <td></td>
   </tr>
@@ -85,7 +78,6 @@
     <td>Жестовая лингвистика<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
-    <td>Даша Р</td>
     <td></td>
     <td></td>
   </tr>
@@ -94,7 +86,6 @@
     <td>14.12.</td>
     <td>Усвоение языка<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
-    <td>Даша Р</td>
     <td></td>
     <td></td>
   </tr>
