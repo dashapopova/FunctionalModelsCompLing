@@ -53,24 +53,24 @@
     <td>11.10.</td>
     <td>Импликатуры<br>
        <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a></td>
-    <td>ДЗ 2 до 1.11</td>
+    <td>ДЗ 2 до 25.10</td>
     <td>
   </td>
   </tr>
     <tr>
     <td>25.10.</td>
-    <td>Метафора и метонимия<br>
-       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
+    <td>Речевые акты
   </td>
-    <td></td>
+    <td>ДЗ 3 до 08.11</td>
     <td></td>
   </tr>
     <tr>
     <td>01.11.</td>
     <td>
-   Речевые акты
+   Метафора и метонимия<br>
+       <a href="https://docs.google.com/spreadsheets/d/1Y-RXTSH50n8vCuW4oG9taWSzvFChVjPAsghbWMt9cLQ/edit?usp=sharing">Ваши презентации</a>
   </td>
-  <td>ДЗ 3 до 15.11</td>
+  <td></td>
     <td></td>
   </tr>
     <tr>
