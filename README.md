@@ -29,7 +29,7 @@
    <tr>
     <td>07.09.</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/20.09/%D0%A4%D0%9C_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.pptx.pdf">Введение: функциональная лингвистика</a><br>
-    Референция</td>
+    <a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/20.09/FM_Sociolinguistics.pptx.pdf">Социолингвистика</a></td>
     <td></td>
     <td>
     </td>
