@@ -38,7 +38,7 @@
   <tr>
     <td>27.09.<br>
     онлайн</td>
-    <td>Экспрессивы<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/27.09/FMExpressives.pdf">Экспрессивы</a><br>
       Импликатуры<br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a></td>
     <td>ДЗ 1 до 11.10</td>
