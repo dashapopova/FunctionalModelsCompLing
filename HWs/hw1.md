@@ -49,8 +49,8 @@
 3.  \[2 балла\]
 Создайте профиль экспрессива по формуле из работы [Constant et al. 2009](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwitxty0p5_zAhVLx4sKHcomDaQQFnoECAQQAQ&url=https%3A%2F%2Fweb.stanford.edu%2F~cgpotts%2Fpapers%2Fconstant-davis-potts-schwarz-expressives.pdf&usg=AOvVaw3QUEeV5U8r1FKhWne43xn3). 
 
-4.  \[2 балла\]
+4.  \[1 балл\]
 Подберите для данных регрессионную модель. Прокомментируйте.
 
-5.  \[2 балла\]
+5.  \[3 балла\]
 Какой профиль получился -- U-образный, J-образный, перевернутое U или что-то другое? Проиллюстрируйте распределение примерами. Подтвердилась ли изначальная гипотеза? Есть ли среди корпусных данных неожиданные и интересные случаи?
