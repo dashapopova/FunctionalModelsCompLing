@@ -47,7 +47,7 @@
 Создайте корпус с контекстами, содержащими Ваш экспрессив, и с разметкой, например, от 1 до 5 звездочек. Разметка по экспрессивности может быть и другой, но хорошо иметь не меньше трёх уровней разметки. Ваш корпус может быть подкорпусом существующего датасета. 
 
 3.  \[2 балла\]
-Создайте профиль экспрессива по формуле из работы [Constant et al. 2009](file:///C:/Users/872B~1/AppData/Local/Temp/constant-davis-potts-schwarz-expressives.pdf). 
+Создайте профиль экспрессива по формуле из работы [Constant et al. 2009](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwitxty0p5_zAhVLx4sKHcomDaQQFnoECAQQAQ&url=https%3A%2F%2Fweb.stanford.edu%2F~cgpotts%2Fpapers%2Fconstant-davis-potts-schwarz-expressives.pdf&usg=AOvVaw3QUEeV5U8r1FKhWne43xn3). 
 
 4.  \[2 балла\]
 Подберите для данных регрессионную модель. Прокомментируйте.
