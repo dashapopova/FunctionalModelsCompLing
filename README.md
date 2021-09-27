@@ -41,7 +41,7 @@
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/27.09/FMExpressives.pdf">Экспрессивы</a><br>
       <a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/27.09/FMEntPresImpl.pdf">Импликатуры</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a></td>
-    <td>ДЗ 1 до 11.10</td>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/HWs/hw1.md">ДЗ 1 до 11.10</a></td>
     <td>
     </td>
   </tr>
