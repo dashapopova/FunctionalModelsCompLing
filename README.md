@@ -46,7 +46,7 @@
     </td>
   </tr>
     <td>04.10.</td>
-    <td>Референция<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/04.10/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F(1).pdf">Референция</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a>
     <td></td>
     <td></td>
