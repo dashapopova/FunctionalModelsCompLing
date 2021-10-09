@@ -53,7 +53,7 @@
    </tr>
     <tr>
     <td>11.10.</td>
-    <td>Импликатуры<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/11.10/FM_Natural%20Language%20Inference.pdf">Импликатуры</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a></td>
     <td>ДЗ 2 до 25.10</td>
     <td>
