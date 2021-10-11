@@ -56,11 +56,12 @@
 + Verb: clause-embedding predicate
 + Embedding: type of entailment canceling operator
 + factive: whether the verb is canonically considered factive or not
-+ ModalType: for modal embedding, type of modal (AB: ability, CI: circumstancial, DE: deontic, EP: epistemic)
 + MatTense: tense of the matrix verb
 + MatSubjLemma: lemma of the matrix verb subject
 + MatSubjPer: person of the matrix verb subject
 + MatSubjNum: number of the matrix verb subject
 + genre: corpus from which the item has been extracted
+
+Вы можете предложить свои параметры аннотации (в задании 5, НЕ в задании 2), обосновав свой выбор и подкрепив примерами.
 
 
