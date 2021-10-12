@@ -70,7 +70,7 @@
 
 ВАРИАНТ 2
 
-а. Проанализируйте разметку в [The CommitmentBank](https://github.com/mcdm/CommitmentBank). Какие параметры разметки предложили бы Вы? Обоснуйте свой выбор.
+а. Проанализируйте разметку в [The CommitmentBank](https://github.com/mcdm/CommitmentBank): размеченные примеры можно найти [тут](https://raw.githubusercontent.com/mcdm/CommitmentBank/master/CommitmentBank-All.csv). Какие параметры разметки предложили бы Вы? Обоснуйте свой выбор.
 
 б. Просмотрите соответствующую [статью](https://semanticsarchive.net/Archive/Tg3ZGI2M/Marneffe.pdf), обсуждающую факторы, влияющие на комитмент говорящего (например, лицо предиката). Какие факторы влияют на комитмент говорящего в русском языке? Как меняется комитмент говорящего при варьировании параметра? Приведите примеры. 
 
