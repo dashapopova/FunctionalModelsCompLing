@@ -60,14 +60,16 @@
   </td>
   </tr>
     <tr>
-    <td>25.10.</td>
+    <td>25.10.<br>
+  онлайн</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/tree/main/25.10">Речевые акты</a>
   </td>
     <td>ДЗ 3 до 08.11</td>
     <td></td>
   </tr>
     <tr>
-    <td>01.11.</td>
+    <td>08.11.<br>
+  онлайн</td>
     <td>
     <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a>
   </td>
@@ -75,7 +77,8 @@
     <td></td>
   </tr>
     <tr>
-    <td>08.11.</td>
+    <td>15.11.<br>
+  онлайн</td>
     <td>Метафора и метонимия<br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a>
   </td>
@@ -84,7 +87,8 @@
   </tr>
   </tr>
     <tr>
-    <td>15.11.</td>
+    <td>06.12.<br>
+  онлайн</td>
     <td>Дискурс<br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a></td>
     <td></td>
