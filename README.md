@@ -64,7 +64,7 @@
   онлайн</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/tree/main/25.10">Речевые акты</a>
   </td>
-    <td>ДЗ 3 до 08.11</td>
+    <td>ДЗ 3 до 11.11</td>
     <td></td>
   </tr>
     <tr>
