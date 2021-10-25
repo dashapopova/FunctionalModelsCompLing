@@ -55,7 +55,7 @@
     <td>11.10.</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/11.10/FM_Natural%20Language%20Inference.pdf">Импликации</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a></td>
-    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/HWs/hw2.md">ДЗ 2 до 28.10</a></td>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/HWs/hw2.md">ДЗ 2 до 01.11</a></td>
     <td>
   </td>
   </tr>
@@ -64,7 +64,7 @@
   онлайн</td>
     <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/tree/main/25.10">Речевые акты</a>
   </td>
-    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/HWs/HW3/HW3.md">ДЗ 3 до 11.11</a></td>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/HWs/HW3/HW3.md">ДЗ 3 до 18.11</a></td>
     <td></td>
   </tr>
     <tr>
