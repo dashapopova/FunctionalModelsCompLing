@@ -80,6 +80,7 @@
     <td>15.11.<br>
   онлайн</td>
     <td>Метафора и метонимия<br>
+      Консультация до дз3<br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a>
   </td>
     <td></td>
@@ -90,6 +91,7 @@
     <td>06.12.<br>
   онлайн</td>
     <td>Дискурс<br>
+      Обсуждение дз2<br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a></td>
     <td></td>
     <td></td>
