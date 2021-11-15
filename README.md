@@ -79,7 +79,7 @@
     <tr>
     <td>15.11.<br>
   онлайн</td>
-    <td>Метафора и метонимия<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/tree/main/15.11">Метафора и метонимия</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a><br>
       Консультация по дз3
   </td>
