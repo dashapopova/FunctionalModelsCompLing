@@ -92,7 +92,7 @@
   онлайн</td>
     <td>Дискурс<br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a><br>
-  Обсуждение дз2</td>
+  <a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/6.12/FM_CompLing_HW2.pdf">Обсуждение дз2</a></td>
     <td></td>
     <td></td>
   </tr>
