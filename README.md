@@ -90,7 +90,7 @@
     <tr>
     <td>06.12.<br>
   онлайн</td>
-    <td>Дискурс<br>
+    <td><a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/6.12/FM_discourse.pptx">Дискурс</a><br>
        <a href="https://docs.google.com/spreadsheets/d/1VfBzz69WN_b--pg5azPW0VR6qyMI45R6HEpAGzYNk4I/edit?usp=sharing">Ваши презентации</a><br>
   <a href="https://github.com/dashapopova/FunctionalModelsCompLing/blob/main/6.12/FM_CompLing_HW2.pdf">Обсуждение дз2</a></td>
     <td></td>
